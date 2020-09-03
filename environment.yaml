@@ -1,0 +1,11 @@
+name: mobility
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab=2.*
+  - pandas=1.*
+  - python=3.6*
+  - pip=20.*
+  - pip:
+    - nextstrain-augur==10.0.0
