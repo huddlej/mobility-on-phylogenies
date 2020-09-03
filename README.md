@@ -20,4 +20,7 @@ Start a Jupyter lab session and run the entire notebook from scratch.
 jupyter lab 2020-09-03-annotate-sars-cov-2-phylogeny-with-mobility-data.ipynb
 ```
 
-[Download the precalculated data file](california_mobility.csv) for use with the corresponding [phylogeny of Californian SARS-CoV-2 genomes](https://nextstrain.org/community/czbiohub/covidtracker/ca).
+[Download the precalculated data file](california_mobility.csv) to drag-and-drop onto the corresponding [phylogeny of Californian SARS-CoV-2 genomes](https://nextstrain.org/community/czbiohub/covidtracker/ca).
+An example of the resulting annotation is included below.
+
+![Example of mobility data mapped to a phylogeny](example-of-mobility-data-mapped-to-phylogeny.png)
